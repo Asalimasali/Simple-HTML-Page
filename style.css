@@ -1,0 +1,51 @@
+body{
+    background-color: #000000;
+}
+h1{
+    color: #D6EEEE;
+    font-style: italic;
+    text-align: center;
+}
+img{
+    display: inline;
+}
+th , td , tr{
+    text-align: center;
+    background-color: blueviolet; 
+}
+.c1{
+    text-align: right;
+    display: inline;
+    color: aliceblue;
+}
+nav{
+    text-align: center;
+}
+footer , header{
+    text-align: center;
+    background-color: blueviolet;
+}
+
+span{
+    color: rgb(255, 255, 0);
+}
+
+h4{
+    color: blueviolet;
+}
+
+button{
+    text-align: center;
+    border-color: yellow;
+    color: blueviolet;
+    border-radius: 10px;
+}
+p{
+    font-size: larger;
+}
+aside{
+    text-align: right;
+    color: blueviolet;
+    background-color: bisque;
+    
+}
